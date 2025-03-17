@@ -7,6 +7,7 @@ Overview
 
 This project aims to predict NCAA lacrosse game outcomes using machine learning techniques. By analyzing historical game data, team statistics, and performance metrics, the system generates predictions for game winners, point spreads, and over/under totals. The model has demonstrated a proven track record with an 18.6% ROI on predictions.
 Code can be provided upon request.
+
 Features
 
 Automated Data Collection: Scrapes game data, team statistics, and historical performance metrics from online sources.
